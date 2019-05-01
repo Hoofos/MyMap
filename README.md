@@ -21,6 +21,7 @@ PS: a API do Foursquare possui algumas limitaçòes neste projeto. Como criei um
 ./src/MarkerModel.js
 ./src/MyLocations.js
 ./src/Search.js
+./package.json
 ./README.md
 
 3. Download / Install Node Modules
